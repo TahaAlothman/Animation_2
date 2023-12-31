@@ -18,8 +18,9 @@ To use the `code_1.py` script, follow these steps:
 2 .Open the terminal or command prompt and navigate to the cloned repository's directory.
 
 3. Run the following command to execute the script:
+  ```bash
 python code_1.py
-
+```
 4. The script will scan your downloads folder and create subdirectories for different file extensions. It will then move the files into their respective subdirectories.
    Note: Make sure you have proper permissions to modify files and directories in your downloads folder.
 
